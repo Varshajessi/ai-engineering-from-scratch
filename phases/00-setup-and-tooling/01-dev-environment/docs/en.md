@@ -78,7 +78,7 @@ a = np.array([1, 2, 3])
 print(f"Vector: {a}, dot product with itself: {np.dot(a, a)}")
 ```
 
-### Step 3: Node.js with pnpm
+### Step 3:  with pnpm
 
 For TypeScript lessons (agents, MCP servers, web apps).
 

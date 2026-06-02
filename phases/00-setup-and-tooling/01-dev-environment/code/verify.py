@@ -21,7 +21,6 @@ GPU_CHECKS = [
     ),
 ]
 
-
 def run_check(name, check_fn, detail_fn=None):
     try:
         result = check_fn()
