@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Page-1" id="QkfykRWvLkZ-2LkMSEwp">
-    <mxGraphModel dx="4563" dy="4233" grid="1" gridSize="1" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1761" dy="1935" grid="1" gridSize="1" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -698,7 +698,7 @@
           <mxGeometry height="67" width="215" x="174" y="118" as="geometry" />
         </mxCell>
         <mxCell id="NtaSptESLH8KFiJJyjg8-219" parent="NtaSptESLH8KFiJJyjg8-201" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=0;fontSize=15;" value="&lt;font&gt;git commit&lt;/font&gt;" vertex="1">
-          <mxGeometry height="57" width="207" x="402" y="164" as="geometry" />
+          <mxGeometry height="64" width="207" x="402" y="164" as="geometry" />
         </mxCell>
         <mxCell id="NtaSptESLH8KFiJJyjg8-221" parent="NtaSptESLH8KFiJJyjg8-201" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=0;fontSize=15;" value="&lt;font&gt;git push&lt;/font&gt;" vertex="1">
           <mxGeometry height="66" width="206" x="619" y="209" as="geometry" />
@@ -707,7 +707,7 @@
           <mxGeometry height="59" width="208" x="616" y="299" as="geometry" />
         </mxCell>
         <mxCell id="NtaSptESLH8KFiJJyjg8-224" parent="NtaSptESLH8KFiJJyjg8-201" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rounded=0;fontSize=15;" value="&lt;font&gt;git pull&lt;/font&gt;" vertex="1">
-          <mxGeometry height="61" width="432" x="172" y="368" as="geometry" />
+          <mxGeometry height="60" width="432" x="172" y="369" as="geometry" />
         </mxCell>
         <mxCell id="NtaSptESLH8KFiJJyjg8-225" edge="1" parent="1" source="NtaSptESLH8KFiJJyjg8-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" target="NtaSptESLH8KFiJJyjg8-201">
           <mxGeometry relative="1" as="geometry" />
